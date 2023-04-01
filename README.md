@@ -26,4 +26,9 @@ $ pip install pygame-menu
 $ python3 main.py
 ```
 
+### Game Controls
+
+* Arrow Keys
+
+
 > This is a inital version of the game. We will add more features by collaborating.
