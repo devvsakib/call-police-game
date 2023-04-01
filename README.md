@@ -17,6 +17,7 @@ Call Police is a game where you have to call the police to help you. You have to
 
 ```bash
 $ pip install pygame
+$ pip install pygame-menu
 ```
 
 ### Run
